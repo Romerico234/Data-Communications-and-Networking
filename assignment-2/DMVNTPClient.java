@@ -4,7 +4,7 @@ import java.net.DatagramSocket;
 import java.net.InetAddress;
 import java.text.DecimalFormat;
 
-public class NTPClient {
+public class DMVNTPClient {
 
 	public static void main(String[] args) throws IOException {
 

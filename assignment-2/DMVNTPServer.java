@@ -2,7 +2,7 @@ import java.io.*;
 import java.net.*;
 import java.util.*;
 
-public class NTPServer {
+public class DMVNTPServer {
 
     private static final int NTPPort = 1000;
 
